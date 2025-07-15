@@ -1,0 +1,3 @@
+Method, Time(s) ,  BlockSize
+Naive: ,  10.080521   ,
+Cache-Aware:  ,  2.414282  ,  32
